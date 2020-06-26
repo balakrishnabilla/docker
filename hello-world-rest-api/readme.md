@@ -8,7 +8,7 @@
 4. Run the jar
 
 ### Docker Commands - Creating Image Manually
-
+```
 docker run -dit openjdk:8-jdk-alpine
 docker container exec naughty_knuth ls /tmp
 docker container cp target/hello-world-rest-api.jar naughty_knuth:/tmp
