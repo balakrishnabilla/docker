@@ -1,6 +1,6 @@
-# Hello World Rest API
+# Hello World Rest 
 
-### Building an Image
+## Building an Image
 
 1. Build a Jar - /target/hello-world-rest-api.jar
 2. Setup the Prerequisites for Running the JAR - openjdk:8-jdk-alpine
@@ -18,6 +18,7 @@ docker run balak143/hello-world-rest-api:manual1
 docker container ls
 docker container commit --change='CMD ["java","-jar","/tmp/hello-world-rest-api.jar"]' naughty_knuth balak143/hello-world-rest-api:manual2
 docker run -p 8080:8080 balak143/hello-world-rest-api:manual2
+```
 
 ### Running the Application
 
