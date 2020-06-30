@@ -20,9 +20,6 @@ public class RestfulWebServicesApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... strings) {
-
-		//Populating embedded database here
-
 	/*	Visitor visitor = new Visitor();
 		visitor.setId(Long.valueOf(1));
 		visitor.setVisits(0);
