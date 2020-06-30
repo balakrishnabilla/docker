@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+
+  redis-server:
+    image: 'redis'
+
+  hello-world-service:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redis-server
