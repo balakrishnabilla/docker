@@ -1,11 +1,14 @@
 # Hello World Rest VISITS API using redis as in memory cache
 
 ### Docker Commands - Creating Manually
+```
+download redis from https://github.com/dmajkic/redis/downloads
+
 run redis server locally
 run hello-world-visits locally on 8080
 make sure you have spring.redis.host=localhost
 
-
+```
 ### Run it on docker Manually
 ````
 docker network create redis-network
@@ -70,4 +73,9 @@ services:
 docker network inspect redis-network
 docker-compose up --build
 docker-compose down
+```
+
+#References
+````
+https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
 ```
