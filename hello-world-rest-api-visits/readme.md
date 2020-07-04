@@ -54,7 +54,7 @@ COPY target/hello-world-rest-api-visits.jar hello-world-rest-api-visits.jar
 CMD ["sh", "-c", "java -jar /hello-world-rest-api-visits.jar"]
 
 ```
-###DOCKER COMPOSE
+### Dcoker Compose
 ```
 version: '3.7'
 services:
@@ -73,9 +73,12 @@ services:
 docker network inspect redis-network
 docker-compose up --build
 docker-compose down
+docker-compose up -d
 ```
 
-#References
+##References
 ````
 https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
+https://medium.com/devops-dudes/docker-volumes-and-bind-mounts-2fb4bd9df09d
+
 ```
