@@ -27,7 +27,6 @@ Run RestfulWebServicesApplication as a Java Application.
 ```txt
 Hello World
 ```
-
 - http://localhost:8080/hello-world-bean
 
 ```json
@@ -38,7 +37,7 @@ Hello World
 ```json
 {"message":"Hello World, hither"}
 ```
-http://localhost:8080/hello-world/visits
+- http://localhost:8080/hello-world/visits
 
 ## Docker File
 
@@ -89,9 +88,10 @@ docker-compose.yml
     build: .
     restart: on-failure
 ```    
-##References
+## References
 ````
-https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
-https://medium.com/devops-dudes/docker-volumes-and-bind-mounts-2fb4bd9df09d
-
+- https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
+```
+```
+- https://medium.com/devops-dudes/docker-volumes-and-bind-mounts-2fb4bd9df09d
 ```
