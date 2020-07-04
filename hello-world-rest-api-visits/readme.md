@@ -33,12 +33,10 @@ Hello World
 ```json
 {"message":"Hello World"}
 ```
-
-- http://localhost:8080/hello-world/path-variable/hither
+- http://localhost:8080/hello-world/hither
 
 ```json
 {"message":"Hello World, hither"}
-```
 ```
 http://localhost:8080/hello-world/visits
 ```
