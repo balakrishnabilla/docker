@@ -1,4 +1,4 @@
-# Hello World Rest VISITS API using redis as in memory cache
+# Hello World Rest Visits API using redis as in memory cache
 
 ### Docker Commands - Creating Manually
 ```
@@ -75,7 +75,22 @@ docker-compose up --build
 docker-compose down
 docker-compose up -d
 ```
-
+### Auto Restarts
+```
+@GetMapping(path = "/hello-world/visits")
+public HelloWorldBean helloWorldVisits() {
+  System.exit(1);//on-failure
+  //System.exit(0); //always
+  Visitor visitor = incrementAndGetFromRedisCache();
+  return new HelloWorldBean(String.format("No of site visits, %s", visitor.getVisits()));
+}
+```
+docker-compose.yml
+```
+  hello-world-service:
+    build: .
+    restart: on-failure
+```    
 ##References
 ````
 https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
