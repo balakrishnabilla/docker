@@ -39,6 +39,9 @@ Hello World
 ```
 - http://localhost:8080/hello-world/visits
 
+```json
+{"message":"No of site visits, 11"}
+```
 ## Docker File
 
 ### Basic
