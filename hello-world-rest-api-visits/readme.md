@@ -21,7 +21,7 @@ docker network inspect redis-network
 ### Running the Application
 ```
 Run RestfulWebServicesApplication as a Java Application.
-
+```
 - http://localhost:8080/hello-world
 
 ```txt
@@ -89,9 +89,6 @@ docker-compose.yml
     restart: on-failure
 ```    
 ## References
-````
 - https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo
-```
-```
 - https://medium.com/devops-dudes/docker-volumes-and-bind-mounts-2fb4bd9df09d
-```
+
