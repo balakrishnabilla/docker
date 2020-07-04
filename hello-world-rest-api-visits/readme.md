@@ -10,7 +10,7 @@ make sure you have spring.redis.host=localhost
 
 ```
 ### Run it on docker Manually
-````
+```
 docker network create redis-network
 docker run -p 6379:6379 --network=redis-network --name=redis-server redis
 docker run -p 8080:8080 --network=redis-network --name=hello-world-service visits:latest
@@ -19,7 +19,7 @@ docker network inspect redis-network
 
 ```
 ### Running the Application
-
+```
 Run RestfulWebServicesApplication as a Java Application.
 
 - http://localhost:8080/hello-world
@@ -54,7 +54,7 @@ COPY target/hello-world-rest-api-visits.jar hello-world-rest-api-visits.jar
 CMD ["sh", "-c", "java -jar /hello-world-rest-api-visits.jar"]
 
 ```
-#DOCKER COMPOSE
+###DOCKER COMPOSE
 ```
 version: '3.7'
 services:
