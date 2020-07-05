@@ -1,12 +1,21 @@
 version: '3.7'
 services:
-
   redis-server:
     image: 'redis'
-
+    networks:
+      - redis-compose-network
   hello-world-service:
     build: .
+    #restart: on-failure
     ports:
       - "8080:8080"
     depends_on:
       - redis-server
+    networks:
+      - redis-compose-network
+    #volumes:
+    #  - target:/app
+
+    # Networks to be created to facilitate communication between containers
+networks:
+    redis-compose-network:

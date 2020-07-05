@@ -21,14 +21,14 @@ public class HelloWorldController {
 
 	@GetMapping(path = "/hello-world")
 	public String helloWorld() {
-		incrementAndGetFromRedisCache();
+		//incrementAndGetFromRedisCache();
 		return "Hello World";
 	}
 
 	@GetMapping(path = "/hello-world-bean")
 	public HelloWorldBean helloWorldBean() {
 		incrementAndGetFromRedisCache();
-		return new HelloWorldBean("Hello World");
+		return new HelloWorldBean("Hello World Bean v5");
 	}
 
 	@GetMapping(path = "/hello-world/{name}")
@@ -39,6 +39,8 @@ public class HelloWorldController {
 
 	@GetMapping(path = "/hello-world/visits")
 	public HelloWorldBean helloWorldVisits() {
+		//System.exit(1);//on-failure
+		//System.exit(0); //always
 		Visitor visitor = incrementAndGetFromRedisCache();
 		return new HelloWorldBean(String.format("No of site visits, %s", visitor.getVisits()));
 	}
