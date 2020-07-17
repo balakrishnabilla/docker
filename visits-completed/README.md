@@ -54,3 +54,15 @@ Container will keep restarting whenever there is failure
  
 ```
 ![Restarts](./pic/auto_restarts.PNG)
+
+## Summary
+
+![1](./pic/1.PNG)
+![2](./pic/2.PNG)
+![3](./pic/3.PNG)
+![4](./pic/4.PNG)
+![5](./pic/5.PNG)
+![6](./pic/6.PNG)
+![7](./pic/7.PNG)
+![8](./pic/8.PNG)
+![9](./pic/9.PNG)
