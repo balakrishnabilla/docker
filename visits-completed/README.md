@@ -11,14 +11,14 @@ docker-compose down
 
 docker-compose up --build -d
 docker-compose down
-http://localhost:4001/
+docker-compose ps
 
 ```
 ### Running the Application
 - http://localhost:4001/
 ```txt
 Number of visits of Application - 1
-
+```
 ## Docker compose
 ```
 version: "3"
@@ -42,4 +42,14 @@ RUN npm install
 COPY . .
 
 CMD ["npm","start"]
+```
+## Automatic Restarts
+Container will keep restarting whenever there is failure
+```txt
+ process.exit(0) // Code
+ restart: always // yml
+
+ process.exit(1) // Code
+ restart: on-failure // yml setting
+ ![Mongo express view](./pic/auto_restart.png)
 ```
