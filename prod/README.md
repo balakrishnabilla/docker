@@ -65,6 +65,6 @@ docker exec -it CONTAINER_ID npm run test
 docker attach CONTAINER_ID
 ````
 
-![1](./pic/1.jpg)
-![2](./pic/2.jpg)
-![3](./pic/3.png)
+![1](./frontend/pic/1.png)
+![2](./frontend/pic/2.png)
+![3](./frontend/pic/3.png)
