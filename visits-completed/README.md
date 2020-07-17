@@ -53,4 +53,4 @@ Container will keep restarting whenever there is failure
  restart: on-failure // yml setting
  
 ```
-![Restarts](pic/auto_restart.png)
+![Restarts](./pic/auto_restarts.PNG)
