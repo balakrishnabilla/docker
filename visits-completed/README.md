@@ -32,7 +32,7 @@ services:
       - "4001:8081"
 ````
 ## Docker file
-````
+```
 FROM node:alpine
 
 WORKDIR '/app'
@@ -42,7 +42,7 @@ RUN npm install
 COPY . .
 
 CMD ["npm","start"]
-```
+````
 ## Automatic Restarts
 Container will keep restarting whenever there is failure
 ```txt
@@ -51,5 +51,6 @@ Container will keep restarting whenever there is failure
 
  process.exit(1) // Code
  restart: on-failure // yml setting
- ![Mongo express view](./pic/auto_restart.png)
+ 
 ```
+![Restarts](pic/auto_restart.png)
