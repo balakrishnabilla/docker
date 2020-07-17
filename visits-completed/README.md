@@ -57,9 +57,9 @@ Container will keep restarting whenever there is failure
 
 ## Summary
 
-![1](./pic/1.PNG)
-![2](./pic/2.PNG)
-![3](./pic/3.PNG)
+![1](./pic/1.jpg)
+![2](./pic/2.jpg)
+![3](./pic/3.png)
 ![4](./pic/4.PNG)
 ![5](./pic/5.PNG)
 ![6](./pic/6.PNG)
