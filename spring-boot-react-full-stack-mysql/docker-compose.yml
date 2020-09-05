@@ -1,0 +1,43 @@
+version: '3.7'
+services:
+  redis-server:
+    image: 'redis'
+    networks:
+      - full-stack-network
+  
+  fib-web-service:
+    build: fib-web-service    
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redis-server
+      - mysql
+    environment:
+      RDS_HOSTNAME: mysql
+      RDS_PORT: 3306
+      RDS_DB_NAME: fib
+      RDS_USERNAME: fib-user
+      RDS_PASSWORD: dummyfib
+    networks:
+      - full-stack-network
+  messaging-redis:
+    build: messaging-redis   
+    depends_on:
+      - redis-server
+    networks:
+      - full-stack-network
+  mysql:
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: dummypassword
+      MYSQL_USER: fib-user
+      MYSQL_PASSWORD: dummyfib
+      MYSQL_DATABASE: fib
+    networks:
+      - full-stack-network
+
+networks:
+    full-stack-network:

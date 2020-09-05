@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d151f7d-67bd-4cbb-ad09-5d346ae296a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DockerCasts-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker-react-ci-cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_orm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_webjars_bootstrap_3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_webjars_bootstrap_datepicker_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_webjars_jquery_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/HelloWorldBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/HelloWorldController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/RedisConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/classes/com/learn/rest/webservices/restfulwebservices/VisitorRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/hello-world-rest-api-visits-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/hello-world-rest-api-visits.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/hello-world-rest-api-visits.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/TEST-com.learn.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/TEST-com.learn.rest.webservices.restfulwebservices.SmokeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/TEST-com.learn.rest.webservices.restfulwebservices.TestHelloWorldController.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/com.learn.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/com.learn.rest.webservices.restfulwebservices.SmokeTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/surefire-reports/com.learn.rest.webservices.restfulwebservices.TestHelloWorldController.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/target/test-classes/com/learn/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/classes/com/billa/rest/webservices/restfulwebservices/HelloWorldBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/classes/com/billa/rest/webservices/restfulwebservices/HelloWorldController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/classes/com/billa/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/hello-world-rest-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/hello-world-rest-api.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/surefire-reports/TEST-com.billa.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/surefire-reports/com.billa.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hello-world-rest-api/target/test-classes/com/billa/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prod/frontend/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/code-backup/01-startingpoint-1stage-api-2stage-frontend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/code-backup/01-startingpoint-1stage-api-2stage-frontend.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/code-backup/02-2-stage-api-2-stage-frontend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/code-backup/02-2-stage-api-2-stage-frontend.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/precache-manifest.26f7af7067af9b089415e7cb2c1996db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/css/main.5e0b8d66.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/css/main.5e0b8d66.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/2.3f64e426.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/2.3f64e426.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/main.fd560234.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/main.fd560234.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/runtime~main.c5541365.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/build/static/js/runtime~main.c5541365.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/Constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/api/todo/HelloWorldService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/api/todo/TodoDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/counter/Counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/counter/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/learning-examples/FirstComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/learning-examples/SecondComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/learning-examples/ThirdComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/AuthenticatedRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/AuthenticationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/ErrorComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/FooterComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/HeaderComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/ListTodosComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/LoginComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/LogoutComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/TodoApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/TodoComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/components/todo/WelcomeComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/frontend/todo-app/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/react_00_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/basic/auth/AuthenticationBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/basic/auth/BasicAuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JWTWebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/AuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtAuthenticationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-react-full-stack-h2/restful-web-services/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/spring-boot-react-full-stack-mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/FibRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/FibService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/FibStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/MessagingRedisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/java/com/example/messagingredis/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/FibRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/FibService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/FibStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/MessagingRedisApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/Receiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/com/example/messagingredis/RedisConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fib-messaging-redis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile2StageBuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose-working.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-rest-api-visits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibRestWebServicesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibStoreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/Fib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/FibBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/FibController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/FibRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/FibStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/FibStoreRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/rest/webservices/restfulwebservices/RedisConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/learn/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/OtherPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nginx/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/EnvironmentConfigurationLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/SpringBootFirstWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/controller/ErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/controller/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/controller/WelcomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/security/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/java/com/in28minutes/springboot/web/service/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/common/footer.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/common/header.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/common/navigation.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/list-todos.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/todo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/src/test/java/com/in28minutes/springboot/web/SpringBootFirstWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/EnvironmentConfigurationLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/SpringBootFirstWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/controller/ErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/controller/LogoutController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/controller/TodoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/controller/WelcomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/model/Todo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/security/SecurityConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/com/in28minutes/springboot/web/service/TodoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/classes/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/surefire-reports/TEST-com.in28minutes.springboot.web.SpringBootFirstWebApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/surefire-reports/com.in28minutes.springboot.web.SpringBootFirstWebApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/test-classes/com/in28minutes/springboot/web/SpringBootFirstWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2.war.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/EnvironmentConfigurationLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/SpringBootFirstWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/controller/ErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/controller/LogoutController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/controller/TodoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/controller/WelcomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/model/Todo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/security/SecurityConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/com/in28minutes/springboot/web/service/TodoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/classes/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/common/footer.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/common/header.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/common/navigation.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/list-todos.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/todo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/HikariCP-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/aspectjweaver-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/bootstrap-3.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/bootstrap-datepicker-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/byte-buddy-1.9.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/classmate-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/h2-1.4.199.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/hibernate-commons-annotations-5.0.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/hibernate-core-5.3.10.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/hibernate-validator-6.0.17.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-core-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-databind-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-datatype-jdk8-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-datatype-jsr310-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jackson-module-parameter-names-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/javassist-3.23.2-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/javax.transaction-api-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jquery-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/jul-to-slf4j-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/log4j-api-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/log4j-to-slf4j-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/snakeyaml-1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-aspects-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-autoconfigure-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-devtools-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-aop-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-data-jpa-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-jdbc-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-json-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-logging-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-security-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-boot-starter-web-2.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-data-commons-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-data-jpa-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-jdbc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-orm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-security-config-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-security-core-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-security-web-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-tx-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/target/todo-web-application-h2/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo-web-application-h2/todo-web-application-h2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/hello-world-rest-api-visits.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/hello-world-rest-api-visits.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/src/main/java/com/learn/rest/webservices/restfulwebservices/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/src/main/java/com/learn/rest/webservices/restfulwebservices/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-world-rest-api-visits/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-world-rest-api-visits/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prod/frontend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../prod/frontend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../visits-completed/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../visits-completed/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../visits-completed/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../visits-completed/docker-compose.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2160">
+              <caret line="108" column="54" selection-start-line="108" selection-start-column="54" selection-end-line="108" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibRestWebServicesApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose-working.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile2StageBuild">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jedi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dockerfile2StageBuild" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fib-web-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fib-web-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fib-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fib-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\IdeaProjects\docker\spring-boot-react-full-stack-mysql\fib-web-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FibRestWebServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.rest.webservices.restfulwebservices.FibRestWebServicesApplication" />
+      <module name="fib-web-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.rest.webservices.restfulwebservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibRestWebServicesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d151f7d-67bd-4cbb-ad09-5d346ae296a3" name="Default Changelist" comment="" />
+      <created>1596739061221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596739061221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="simpleUML" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.2987897" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.5272109" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.44387755" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="simpleUML" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2987897" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.5272109" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.17006803" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="108" column="54" selection-start-line="108" selection-start-column="54" selection-end-line="108" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibRestWebServicesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/rest/webservices/restfulwebservices/FibStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-working.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile2StageBuild">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fib-web-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
